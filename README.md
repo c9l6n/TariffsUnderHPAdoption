@@ -12,13 +12,13 @@ This repository includes all code related to the analyses performed as part of t
    ├── main.py # Main script to launch all grid simulations in parallel
    │
    ├── data/ # Input datasets and result files
-   │ ├── 2019_data_15min.hdf5
+   │ ├── 2019_data_15min.hdf5 # File to be downloaded here: https://doi.org/10.5281/zenodo.5642902, file 2019_data_15min.hdf5
    │ ├── 2019_data_household_information.csv
    │ ├── people_per_unit.csv
    │ ├── units_per_house.csv
    │ ├── standardLines.csv
    │ ├── standardTrafos.csv
-   │ └── results/
+   │ └── results/ # Created once results are generated
    │ ├── LVGridResults/ # Intermediate results per LV grid
    │ ├── MVGridResults/ # Intermediate results per MV grid
    │ └── HVGridResults/ # Intermediate results per HV grid
