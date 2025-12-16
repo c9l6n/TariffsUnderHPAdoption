@@ -37,8 +37,7 @@ This repository includes all code related to the analyses performed as part of t
    │ ├── results_prep.py
    │
    ├── ipynb/ # Post-processing notebooks
-   │ ├── overload_and_cost_analysis_v1.ipynb
-   │ └── tariff_analysis_v1.ipynb
+   │ ├── results_analysis_v1.ipynb
 ```
 ---
 
@@ -54,9 +53,7 @@ This repository includes all code related to the analyses performed as part of t
 
 3. **Analyze Results**:
 
-   Use notebooks in ipynb/ for:
-   - Overload and cost visualization.
-   - Tariff projection using PV-based asset depreciation models.
+   Use notebooks in ipynb/ to generate results data as represented in paper.
   
 ---
 
